@@ -1,0 +1,55 @@
+.ustalan{
+	background-color: #405D9B !important;
+	min-height:80px;
+}
+
+nav input {
+	padding: 0px !important;
+	border-radius: 0px !important;
+}
+
+.giris-buton{
+	font-size:13px;
+	font-family: arial;
+	background-color: #405D9B !important; 
+}
+
+.nav-eposta{
+	position: absolute;
+	margin-top: -25px;
+	color: white;
+}
+
+.nav-sifre{
+	position: absolute;
+	margin-top: -25px;
+	margin-left: 160px;
+	color: white;
+}
+
+.nav-sifreunut{
+	position: absolute;
+	margin-top: 24px;
+	margin-left: 160px;
+	color: #F4f4f4;
+	font-size: 12px;
+}
+
+.gradian{
+
+	min-height: 585px;
+	background:linear-gradient(white,#D4D9E8);
+	background: -webkit-linear-gradient(white,#D4D9E8);
+	background:-moz-linear-gradient(white,#D4D9E8);
+	background:-o-linear-gradient(white,#D4D9E8);
+}
+
+
+.dtarih{
+	padding: 0px !important;
+	width: 60px !important;
+	border-radius: 0px !important;
+	height: 35px !important;
+	margin-left: 10px;
+
+}
